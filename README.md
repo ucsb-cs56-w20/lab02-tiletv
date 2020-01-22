@@ -1,6 +1,6 @@
 lab02-tiletv
 
-Javadoc: https://github.com/ucsb-cs56-w20/lab02-tiletv/tree/master/docs
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-tiletv/
 Repo: https://github.com/ucsb-cs56-w20/lab02-tiletv
 
 # About this repo
